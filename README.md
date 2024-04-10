@@ -1,7 +1,6 @@
 # AWS Network Terraform module
 
 ![squareops_avatar]
-[squarops_avatar]: 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="C:\Users\rachit\Downloads\png white bg squareops.png">
   <source media="(prefers-color-scheme: light)" srcset="C:\Users\rachit\Downloads\png white bg squareops.png">
