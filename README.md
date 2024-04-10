@@ -2,7 +2,14 @@
 
 ![squareops_avatar]
 
-[squareops_avatar]: https://squareops.com/wp-content/uploads/2022/12/squareops-logo.png
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rachit89/terraform-aws-vpc/blob/feature/logo/png%20white%20bg%20squareops.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rachit89/terraform-aws-vpc/blob/feature/logo/png%20white%20bg%20squareops.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/rachit89/terraform-aws-vpc/blob/feature/logo/png%20white%20bg%20squareops.png">
+</picture>
+
+
+### [squareops_avatar]: https://squareops.com/wp-content/uploads/2022/12/squareops-logo.png
 
 ### [SquareOps Technologies](https://squareops.com/) Your DevOps Partner for Accelerating cloud journey.
 
